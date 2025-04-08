@@ -1,4 +1,4 @@
-# DEVemDOBRO-FAQ-MK
+# DEVemDOBRO-FAQ-MK - (EM DESENVOLVIMENTO)
 
 ## Projeto de uma página FAQ sobre a série de games Mortal Kombat ![Alt Text](./src/imagens/favicon.png)
 
